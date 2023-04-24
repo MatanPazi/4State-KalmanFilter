@@ -1,3 +1,6 @@
+# Used code from ThePoorEngineer:
+# https://thepoorengineer.com/en/arduino-python-plot/
+
 #!/usr/bin/env python
 
 from threading import Thread
